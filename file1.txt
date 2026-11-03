@@ -4,4 +4,8 @@ line1
 line2
 line3 github
 line4 branch feature1
-line5 branch feature1
+line5 branch feature1 edited
+line6 branch feature1
+line7 branch feature1 edited
+line8 branch feature1
+
