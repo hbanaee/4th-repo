@@ -8,4 +8,4 @@ line5 branch feature1 edited
 line6 branch feature1
 line7 branch feature1 edited
 line8 branch feature1
-
+line9 branch feature1
